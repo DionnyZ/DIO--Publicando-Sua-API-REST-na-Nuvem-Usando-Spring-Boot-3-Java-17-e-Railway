@@ -1,5 +1,9 @@
 # Publicando Sua API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway
 
+Um desafio que consistia em desenvolver uma API.
+
+Está incompleto
+
 ## Diagrama de Classes
 
 ```mermaid
